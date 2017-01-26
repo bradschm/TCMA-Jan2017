@@ -17,24 +17,12 @@ jss_password = "potato"
 
 
 # Would like to pass this as an arg later
-labs = ['AS-LAB*',
-'GW-Student-Lab*',
-'IKE-Student-MediaLab*',
-'IKE-Student-Lab307*',
-'MB-Student-Lab-MML*',
-'TG-RoyalLab-*',
-'NJH-213*',
-'NJH-301Lab*',
-'WJH-Student-607*',
-'WJH-Student-611*',
-'HHS-Student-S152*',
-'HHS-Student-S175*',
-'HHS-Student-S184*',
-'HHS-Student-S200*',
-'HHS-Student-W161*',
-'HHS-Student-W188*',
-'HHS-Student-W221*',
-'HHS-Student-W252*']
+labs = ['Lab1*',
+'Lab2*',
+'Lab3*',
+'Cart1*',
+'Cart2*',
+'Cart3*']
 
 
 # Calculate the date range for the last full month
